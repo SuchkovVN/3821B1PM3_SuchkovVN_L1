@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/Build/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -g -o CMakeFiles\\Test.dir\\Tree.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_L1\\Build\\Tree.cpp",
+  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/Build/Tree.cpp"
+},
+{
+  "directory": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/Build/build",
+  "command": "C:\\MinGW\\bin\\mingw32-g++.exe   -g -o CMakeFiles\\Test.dir\\main.cpp.obj -c C:\\Users\\Professional\\Desktop\\MyRep\\3821B1PM3_SuchkovVN_L1\\Build\\main.cpp",
+  "file": "C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/Build/main.cpp"
+}
+]

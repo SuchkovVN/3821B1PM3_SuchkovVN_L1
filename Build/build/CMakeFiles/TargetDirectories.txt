@@ -1,0 +1,3 @@
+C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/Build/build/CMakeFiles/Test.dir
+C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/Build/build/CMakeFiles/edit_cache.dir
+C:/Users/Professional/Desktop/MyRep/3821B1PM3_SuchkovVN_L1/Build/build/CMakeFiles/rebuild_cache.dir
